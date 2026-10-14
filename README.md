@@ -19,11 +19,11 @@ class SanjayR:
         self.location    = "India 🇮🇳"
         self.email       = "sanjaykmm04@gmail.com"
         self.education   = "MCA Graduate"
-        self.title       = "AI Engineer & Full Stack Developer"
+        self.title       = "Full Stack Developer"
 
         self.skills = {
             "languages"  : ["Python", "JavaScript", "SQL", "Dart", "HTML", "CSS"],
-            "frameworks" : ["Django", "FastAPI", "Flutter", "REST API", "PHP"],
+            "frameworks" : ["Django", "FastAPI", "REST API", "PHP"],
             "ai_ml"      : ["TensorFlow", "Scikit-learn", "NLP", "LangChain",
                             "OpenCV", "YOLOv8", "Gemini", "OpenAI"],
             "databases"  : ["MySQL", "PostgreSQL", "SQLite"],
