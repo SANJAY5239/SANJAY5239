@@ -13,32 +13,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
 ```python
-class SanjayR:
-    def __init__(self):
-        self.name        = "Sanjay R"
-        self.location    = "India 🇮🇳"
-        self.email       = "sanjaykmm04@gmail.com"
-        self.education   = "MCA Graduate"
-        self.title       = "Full Stack Developer"
 
-        self.skills = {
-            "languages"  : ["Python", "JavaScript", "SQL", "Dart", "HTML", "CSS"],
-            "frameworks" : ["Django", "FastAPI", "REST API", "PHP"],
-            "ai_ml"      : ["TensorFlow", "Scikit-learn", "NLP", "LangChain",
-                            "OpenCV", "YOLOv8", "Gemini", "OpenAI"],
-            "databases"  : ["MySQL", "PostgreSQL", "SQLite"],
-            "tools"      : ["Git", "Docker", "Postman", "VS Code", "Linux"]
-        }
-
-        self.current_focus  = "Building AI-powered business systems"
-        self.fun_fact       = "I turn coffee ☕ into AI models 🤖"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
-
-me = SanjayR()
-me.say_hi()
-```
 
 <br clear="right"/>
 
